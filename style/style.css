@@ -1,5 +1,5 @@
 body{
-    background: url('/desert.jpg') center center/cover no-repeat;
+    background: url('../img/desert.jpg') center center/cover no-repeat;
     margin: 0;
     user-select: none;
 }
